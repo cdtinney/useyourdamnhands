@@ -1,6 +1,6 @@
 # Use Your Damn Hands
 
-A static website that illustrates everyday scenarios where your hands work better.
+A public service announcement. Stop buying single-purpose kitchen gadgets and household tools. You have hands. They are free, clean, and highly specialized. Use them.
 
 ## Development
 
@@ -12,4 +12,4 @@ Starts a live-reloading preview on http://localhost:8080.
 
 ## Deployment
 
-Push to `main` and enable GitHub Pages from the repository settings (source: root of `main` branch). No build step required.
+Deployed automatically to GitHub Pages via GitHub Actions on push to `main`. No build step required.
