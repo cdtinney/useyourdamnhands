@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily folding socks by hand -->
+  <!-- Head -->
+  <circle cx="200" cy="95" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy closed eyes -->
+  <path d="M180 86 Q185 80 190 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 86 Q215 80 220 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big grin -->
+  <path d="M178 108 Q200 128 222 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="163" y1="100" x2="173" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="100" x2="237" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="140" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <path d="M200 180 Q155 195 135 218" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm -->
+  <path d="M200 180 Q245 195 265 218" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand fingers -->
+  <path d="M130 218 L124 226" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M133 216 L126 223" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M137 215 L132 222" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right hand fingers -->
+  <path d="M263 218 L270 226" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M267 216 L274 223" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M269 215 L276 222" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sock being folded - one sock folded over another -->
+  <path d="M155 225 Q145 240 150 255 Q160 268 175 258" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M245 225 Q255 240 250 255 Q240 268 225 258" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Folding motion arrow -->
+  <path d="M175 235 Q200 220 225 235" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <!-- FOLD text -->
+  <text x="178" y="215" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="black">FOLD!</text>
+  <!-- Neat pile of folded socks on surface -->
+  <line x1="120" y1="285" x2="280" y2="285" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Folded sock pair 1 -->
+  <ellipse cx="160" cy="278" rx="18" ry="8" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Folded sock pair 2 -->
+  <ellipse cx="205" cy="278" rx="18" ry="8" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Folded sock pair 3 -->
+  <ellipse cx="248" cy="278" rx="18" ry="8" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Sparkle -->
+  <path d="M285 75 L288 67 L291 75 L299 72 L291 77 L295 85 L289 79 L285 85 L287 77 L279 73Z" fill="black" stroke="none"/>
+  <path d="M105 75 L108 67 L111 75 L119 72 L111 77 L115 85 L109 79 L105 85 L107 77 L99 73Z" fill="black" stroke="none"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

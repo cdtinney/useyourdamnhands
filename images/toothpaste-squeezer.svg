@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Toothpaste Tube Squeezer Key -->
+  <!-- The key/winder tool -->
+  <rect x="140" y="100" width="120" height="30" rx="5" fill="#d0d0d0" stroke="#333" stroke-width="3"/>
+  <!-- Slot in the key -->
+  <rect x="185" y="108" width="30" height="14" rx="3" fill="white" stroke="#333" stroke-width="2"/>
+  <!-- Turning handle on right -->
+  <circle cx="280" cy="115" r="20" fill="#c0c0c0" stroke="#333" stroke-width="3"/>
+  <circle cx="280" cy="115" r="8" fill="#999" stroke="#333" stroke-width="2"/>
+  <rect x="258" y="108" width="22" height="14" fill="#c0c0c0" stroke="#333" stroke-width="2"/>
+  <!-- Grip ridges on handle -->
+  <path d="M268 97 L268 133" stroke="#aaa" stroke-width="1.5"/>
+  <path d="M275 96 L275 134" stroke="#aaa" stroke-width="1.5"/>
+  <path d="M283 96 L283 134" stroke="#aaa" stroke-width="1.5"/>
+  <path d="M290 97 L290 133" stroke="#aaa" stroke-width="1.5"/>
+  <!-- Toothpaste tube being squeezed -->
+  <!-- Tube body -->
+  <path d="M100 180 L300 180 L300 300 L100 300 Z" fill="#4a90d9" stroke="#333" stroke-width="3" rx="5"/>
+  <!-- Tube rolled up from bottom -->
+  <path d="M100 280 L300 280" stroke="#333" stroke-width="2"/>
+  <ellipse cx="200" cy="295" rx="100" ry="15" fill="#3a70b0" stroke="#333" stroke-width="2.5"/>
+  <ellipse cx="200" cy="310" rx="90" ry="12" fill="#3a70b0" stroke="#333" stroke-width="2"/>
+  <ellipse cx="200" cy="322" rx="75" ry="10" fill="#3a70b0" stroke="#333" stroke-width="2"/>
+  <!-- Key inserted through tube end -->
+  <rect x="155" y="316" width="90" height="8" rx="2" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- Tube cap/nozzle at top -->
+  <rect x="185" y="155" width="30" height="28" rx="4" fill="#fff" stroke="#333" stroke-width="3"/>
+  <rect x="190" y="148" width="20" height="12" rx="6" fill="#fff" stroke="#333" stroke-width="2.5"/>
+  <!-- Tube label -->
+  <rect x="130" y="210" width="140" height="45" rx="5" fill="#3a70b0" stroke="#5aa0e9" stroke-width="1.5"/>
+  <line x1="145" y1="225" x2="255" y2="225" stroke="#5aa0e9" stroke-width="1.5"/>
+  <line x1="155" y1="238" x2="245" y2="238" stroke="#5aa0e9" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Banana Slicer - curved arch shape with parallel blades -->
+  <!-- Main arch body -->
+  <path d="M60 250 Q70 230 90 220 L310 220 Q330 230 340 250" fill="#f0e040" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- Top edge of slicer -->
+  <path d="M60 250 Q70 235 90 225 L310 225 Q330 235 340 250" fill="none" stroke="#333" stroke-width="3"/>
+  <!-- Handle grips on sides -->
+  <rect x="45" y="240" width="30" height="40" rx="8" fill="#e8d030" stroke="#333" stroke-width="3"/>
+  <rect x="325" y="240" width="30" height="40" rx="8" fill="#e8d030" stroke="#333" stroke-width="3"/>
+  <!-- Grip texture -->
+  <line x1="52" y1="250" x2="68" y2="250" stroke="#c0a820" stroke-width="2"/>
+  <line x1="52" y1="258" x2="68" y2="258" stroke="#c0a820" stroke-width="2"/>
+  <line x1="52" y1="266" x2="68" y2="266" stroke="#c0a820" stroke-width="2"/>
+  <line x1="332" y1="250" x2="348" y2="250" stroke="#c0a820" stroke-width="2"/>
+  <line x1="332" y1="258" x2="348" y2="258" stroke="#c0a820" stroke-width="2"/>
+  <line x1="332" y1="266" x2="348" y2="266" stroke="#c0a820" stroke-width="2"/>
+  <!-- Slicer blades -->
+  <line x1="110" y1="224" x2="110" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="130" y1="222" x2="130" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="150" y1="221" x2="150" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="170" y1="220" x2="170" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="190" y1="220" x2="190" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="210" y1="220" x2="210" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="230" y1="221" x2="230" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="250" y1="222" x2="250" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="270" y1="223" x2="270" y2="290" stroke="#999" stroke-width="2"/>
+  <line x1="290" y1="224" x2="290" y2="290" stroke="#999" stroke-width="2"/>
+  <!-- Bottom bar connecting blades -->
+  <path d="M90 290 L310 290" stroke="#999" stroke-width="3" stroke-linecap="round"/>
+  <!-- Banana underneath -->
+  <path d="M80 310 Q120 290 200 295 Q280 300 320 320" fill="none" stroke="#f5d020" stroke-width="18" stroke-linecap="round"/>
+  <path d="M80 310 Q120 290 200 295 Q280 300 320 320" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-dasharray="none"/>
+  <!-- Banana tip -->
+  <path d="M320 320 Q330 326 335 322" stroke="#8B7335" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M80 310 Q72 306 70 310" stroke="#8B7335" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>

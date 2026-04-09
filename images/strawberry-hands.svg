@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily twisting top off strawberry -->
+  <!-- Head -->
+  <circle cx="200" cy="95" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy closed eyes -->
+  <path d="M180 86 Q185 80 190 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 86 Q215 80 220 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big grin -->
+  <path d="M178 108 Q200 128 222 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="163" y1="100" x2="173" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="100" x2="237" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="140" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm holding strawberry -->
+  <path d="M200 180 Q155 195 140 220" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm twisting top -->
+  <path d="M200 175 Q235 190 250 215" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand -->
+  <circle cx="138" cy="223" r="7" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Right hand - fingers pinching -->
+  <path d="M248 215 L255 208" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M252 218 L258 212" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M254 222 L260 216" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Strawberry in left hand -->
+  <path d="M128 228 Q120 252 132 262 Q145 268 152 252 Q158 238 142 228Z" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Strawberry seeds -->
+  <circle cx="136" cy="243" r="1.5" fill="black"/>
+  <circle cx="143" cy="250" r="1.5" fill="black"/>
+  <circle cx="134" cy="253" r="1.5" fill="black"/>
+  <!-- Leaves being twisted off - in right hand -->
+  <path d="M255 210 L250 200" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M258 212 L260 202" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M262 214 L268 205" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Twist lines -->
+  <path d="M200 210 Q210 205 215 210" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M205 215 Q215 210 220 215" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- TWIST text -->
+  <text x="185" y="198" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="black">TWIST!</text>
+  <!-- Bowl of clean strawberries -->
+  <path d="M155 268 Q200 290 245 268" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="155" y1="268" x2="245" y2="268" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Strawberries in bowl -->
+  <circle cx="180" cy="264" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <circle cx="200" cy="262" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <circle cx="220" cy="264" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <!-- Sparkle -->
+  <path d="M100 75 L103 67 L106 75 L114 72 L106 77 L110 85 L104 79 L100 85 L102 77 L94 73Z" fill="black" stroke="none"/>
+  <!-- Counter -->
+  <line x1="100" y1="285" x2="300" y2="285" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

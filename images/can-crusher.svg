@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Wall-mounted Can Crusher -->
+  <!-- Wall mount plate -->
+  <rect x="170" y="40" width="60" height="340" rx="5" fill="#666" stroke="#333" stroke-width="3"/>
+  <!-- Mount screws -->
+  <circle cx="200" cy="60" r="6" fill="#888" stroke="#333" stroke-width="2"/>
+  <circle cx="200" cy="360" r="6" fill="#888" stroke="#333" stroke-width="2"/>
+  <!-- Screw cross slots -->
+  <line x1="196" y1="60" x2="204" y2="60" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="56" x2="200" y2="64" stroke="#555" stroke-width="2"/>
+  <line x1="196" y1="360" x2="204" y2="360" stroke="#555" stroke-width="2"/>
+  <line x1="200" y1="356" x2="200" y2="364" stroke="#555" stroke-width="2"/>
+  <!-- Pivot point -->
+  <circle cx="200" cy="140" r="10" fill="#888" stroke="#333" stroke-width="3"/>
+  <circle cx="200" cy="140" r="4" fill="#666"/>
+  <!-- Crushing arm/lever -->
+  <path d="M200 140 L80 90" stroke="#555" stroke-width="8" stroke-linecap="round"/>
+  <!-- Handle at end of lever -->
+  <circle cx="75" cy="88" r="15" fill="#d04040" stroke="#333" stroke-width="3"/>
+  <circle cx="75" cy="88" r="8" fill="#b03030" stroke="#333" stroke-width="2"/>
+  <!-- Crushing plate -->
+  <rect x="160" y="150" width="80" height="15" rx="3" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <!-- Crushing plate ridges -->
+  <line x1="175" y1="153" x2="175" y2="162" stroke="#777" stroke-width="2"/>
+  <line x1="190" y1="153" x2="190" y2="162" stroke="#777" stroke-width="2"/>
+  <line x1="205" y1="153" x2="205" y2="162" stroke="#777" stroke-width="2"/>
+  <line x1="220" y1="153" x2="220" y2="162" stroke="#777" stroke-width="2"/>
+  <!-- Base plate -->
+  <rect x="155" y="290" width="90" height="15" rx="3" fill="#888" stroke="#333" stroke-width="2.5"/>
+  <!-- Aluminum can sitting on base -->
+  <!-- Can body -->
+  <rect x="172" y="195" width="56" height="95" rx="10" fill="#c0c0c0" stroke="#333" stroke-width="2.5"/>
+  <!-- Can top rim -->
+  <ellipse cx="200" cy="198" rx="28" ry="8" fill="#d0d0d0" stroke="#333" stroke-width="2"/>
+  <!-- Can tab -->
+  <ellipse cx="200" cy="196" rx="10" ry="4" fill="#aaa" stroke="#333" stroke-width="1.5"/>
+  <!-- Can bottom rim -->
+  <ellipse cx="200" cy="287" rx="28" ry="8" fill="#b0b0b0" stroke="#333" stroke-width="2"/>
+  <!-- Can label band -->
+  <rect x="172" y="225" width="56" height="40" fill="#2060a0" stroke="none"/>
+  <line x1="172" y1="225" x2="228" y2="225" stroke="#1a5090" stroke-width="1.5"/>
+  <line x1="172" y1="265" x2="228" y2="265" stroke="#1a5090" stroke-width="1.5"/>
+  <!-- Can highlight -->
+  <path d="M180 210 L180 275" stroke="white" stroke-width="2" opacity="0.3"/>
+</svg>

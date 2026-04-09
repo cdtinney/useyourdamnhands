@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily tearing herbs by hand -->
+  <!-- Head -->
+  <circle cx="200" cy="95" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy closed eyes -->
+  <path d="M180 86 Q185 80 190 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 86 Q215 80 220 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big smile -->
+  <path d="M178 108 Q200 128 222 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="163" y1="100" x2="173" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="100" x2="237" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="140" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <path d="M200 180 Q155 190 130 215" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm -->
+  <path d="M200 180 Q245 190 270 215" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand fingers pinching -->
+  <path d="M125 215 L118 225" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M128 213 L120 222" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M132 212 L126 220" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right hand fingers pinching -->
+  <path d="M268 215 L275 225" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M272 213 L280 222" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M274 212 L282 220" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Herb sprig being torn - left piece -->
+  <path d="M105 228 Q115 220 128 225" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M108 225 L105 218" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M115 222 L112 215" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Herb sprig - right piece -->
+  <path d="M272 225 Q285 220 298 228" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M285 222 L288 215" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M292 225 L295 218" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Tear lines in middle -->
+  <line x1="190" y1="218" x2="185" y2="208" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="200" y1="216" x2="200" y2="205" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="218" x2="215" y2="208" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Falling herb bits into bowl -->
+  <circle cx="185" cy="240" r="2" fill="black"/>
+  <circle cx="200" cy="245" r="1.5" fill="black"/>
+  <circle cx="210" cy="238" r="2" fill="black"/>
+  <!-- Bowl below -->
+  <path d="M155 265 Q200 290 245 265" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="155" y1="265" x2="245" y2="265" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sparkle -->
+  <path d="M280 75 L283 67 L286 75 L294 72 L286 77 L290 85 L284 79 L280 85 L282 77 L274 73Z" fill="black" stroke="none"/>
+  <!-- Counter -->
+  <line x1="100" y1="285" x2="300" y2="285" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

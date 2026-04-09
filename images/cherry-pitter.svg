@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Cherry Pitter - handheld squeeze type -->
+  <!-- Top handle -->
+  <path d="M70 100 L180 100 Q200 100 200 120" fill="none" stroke="#333" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M200 120 L200 180" stroke="#333" stroke-width="4.5"/>
+  <!-- Top handle grip -->
+  <rect x="70" y="88" width="110" height="24" rx="8" fill="#d04040" stroke="#333" stroke-width="3"/>
+  <line x1="90" y1="95" x2="90" y2="105" stroke="#b03030" stroke-width="2"/>
+  <line x1="105" y1="95" x2="105" y2="105" stroke="#b03030" stroke-width="2"/>
+  <line x1="120" y1="95" x2="120" y2="105" stroke="#b03030" stroke-width="2"/>
+  <line x1="135" y1="95" x2="135" y2="105" stroke="#b03030" stroke-width="2"/>
+  <line x1="150" y1="95" x2="150" y2="105" stroke="#b03030" stroke-width="2"/>
+  <!-- Bottom handle -->
+  <path d="M70 230 L180 230 Q200 230 200 210" fill="none" stroke="#333" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M200 210 L200 180" stroke="#333" stroke-width="4.5"/>
+  <!-- Bottom handle grip -->
+  <rect x="70" y="218" width="110" height="24" rx="8" fill="#d04040" stroke="#333" stroke-width="3"/>
+  <line x1="90" y1="225" x2="90" y2="235" stroke="#b03030" stroke-width="2"/>
+  <line x1="105" y1="225" x2="105" y2="235" stroke="#b03030" stroke-width="2"/>
+  <line x1="120" y1="225" x2="120" y2="235" stroke="#b03030" stroke-width="2"/>
+  <line x1="135" y1="225" x2="135" y2="235" stroke="#b03030" stroke-width="2"/>
+  <line x1="150" y1="225" x2="150" y2="235" stroke="#b03030" stroke-width="2"/>
+  <!-- Hinge/spring -->
+  <circle cx="200" cy="180" r="10" fill="#ccc" stroke="#333" stroke-width="3"/>
+  <circle cx="200" cy="180" r="4" fill="#999"/>
+  <!-- Spring coil -->
+  <path d="M195 155 Q188 160 195 165 Q202 170 195 175" fill="none" stroke="#999" stroke-width="2"/>
+  <!-- Pitting arm extending right from top -->
+  <path d="M210 140 L290 140 L290 160" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Plunger rod -->
+  <line x1="290" y1="160" x2="290" y2="200" stroke="#333" stroke-width="3.5"/>
+  <circle cx="290" cy="204" r="6" fill="#999" stroke="#333" stroke-width="2"/>
+  <!-- Cup holder (bottom arm) -->
+  <path d="M210 220 L260 220 L260 210" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 210 Q260 195 275 195 L305 195 Q320 195 320 210 L320 220 Q320 240 305 240 L275 240 Q260 240 260 220Z" fill="#e8e8e8" stroke="#333" stroke-width="3"/>
+  <!-- Cup hole -->
+  <circle cx="290" cy="220" r="12" fill="white" stroke="#333" stroke-width="2"/>
+  <!-- Cherry in the cup -->
+  <circle cx="290" cy="218" r="14" fill="#8b0000" stroke="#333" stroke-width="2"/>
+  <!-- Cherry highlight -->
+  <circle cx="285" cy="213" r="4" fill="#cc3333" opacity="0.6"/>
+  <!-- Cherry stem -->
+  <path d="M290 204 Q295 190 305 180 Q310 175 308 170" fill="none" stroke="#3a6030" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

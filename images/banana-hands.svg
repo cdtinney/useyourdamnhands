@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily breaking banana with hands -->
+  <!-- Head -->
+  <circle cx="200" cy="95" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy closed eyes -->
+  <path d="M180 86 Q185 80 190 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 86 Q215 80 220 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big grin -->
+  <path d="M178 108 Q200 128 222 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="163" y1="100" x2="173" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="100" x2="237" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="140" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <path d="M200 180 Q155 190 130 210" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm -->
+  <path d="M200 180 Q245 190 270 210" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand - fingers breaking banana -->
+  <path d="M125 210 L120 220" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M128 208 L122 218" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M132 207 L128 217" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right hand -->
+  <path d="M268 210 L275 220" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M272 208 L278 218" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M274 207 L280 217" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Banana being snapped in half - left piece -->
+  <path d="M100 225 Q120 215 145 225" fill="none" stroke="black" stroke-width="4" stroke-linecap="round"/>
+  <!-- Banana right piece -->
+  <path d="M255 225 Q275 215 295 225" fill="none" stroke="black" stroke-width="4" stroke-linecap="round"/>
+  <!-- Snap lines in middle -->
+  <line x1="190" y1="215" x2="185" y2="205" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="200" y1="213" x2="200" y2="200" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="215" x2="215" y2="205" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- SNAP text -->
+  <text x="175" y="198" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="black">SNAP!</text>
+  <!-- Joy sparkles -->
+  <path d="M100 75 L103 67 L106 75 L114 72 L106 77 L110 85 L104 79 L100 85 L102 77 L94 73Z" fill="black" stroke="none"/>
+  <path d="M290 75 L293 67 L296 75 L304 72 L296 77 L300 85 L294 79 L290 85 L292 77 L284 73Z" fill="black" stroke="none"/>
+  <!-- Nice banana slices on counter -->
+  <line x1="100" y1="275" x2="300" y2="275" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="160" cy="270" rx="8" ry="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="185" cy="270" rx="8" ry="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="210" cy="270" rx="8" ry="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <ellipse cx="235" cy="270" rx="8" ry="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

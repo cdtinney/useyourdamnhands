@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Strawberry Huller - claw/tweezers style -->
+  <!-- Left arm of huller -->
+  <path d="M160 60 Q155 70 150 120 Q148 150 155 180 Q160 200 170 210" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right arm of huller -->
+  <path d="M240 60 Q245 70 250 120 Q252 150 245 180 Q240 200 230 210" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- Handle top bridge -->
+  <path d="M160 60 Q200 45 240 60" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <!-- Handle grip - left -->
+  <path d="M150 90 Q145 90 142 100 Q140 120 145 130 Q148 135 155 130" fill="#e05050" stroke="#333" stroke-width="2.5"/>
+  <!-- Handle grip - right -->
+  <path d="M250 90 Q255 90 258 100 Q260 120 255 130 Q252 135 245 130" fill="#e05050" stroke="#333" stroke-width="2.5"/>
+  <!-- Claw tips - serrated grabber -->
+  <path d="M170 210 Q175 220 180 225 Q185 228 190 225 Q195 220 200 215" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M230 210 Q225 220 220 225 Q215 228 210 225 Q205 220 200 215" fill="none" stroke="#333" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Claw teeth -->
+  <circle cx="178" cy="222" r="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <circle cx="188" cy="226" r="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <circle cx="200" cy="215" r="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <circle cx="212" cy="226" r="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <circle cx="222" cy="222" r="3" fill="#999" stroke="#333" stroke-width="1.5"/>
+  <!-- Strawberry below the huller -->
+  <path d="M165 280 Q170 250 200 245 Q230 250 235 280 Q225 330 200 345 Q175 330 165 280Z" fill="#e03030" stroke="#333" stroke-width="2.5"/>
+  <!-- Strawberry seeds -->
+  <circle cx="185" cy="275" r="2" fill="#f5c040"/>
+  <circle cx="200" cy="268" r="2" fill="#f5c040"/>
+  <circle cx="215" cy="275" r="2" fill="#f5c040"/>
+  <circle cx="178" cy="295" r="2" fill="#f5c040"/>
+  <circle cx="195" cy="290" r="2" fill="#f5c040"/>
+  <circle cx="210" cy="290" r="2" fill="#f5c040"/>
+  <circle cx="222" cy="295" r="2" fill="#f5c040"/>
+  <circle cx="188" cy="310" r="2" fill="#f5c040"/>
+  <circle cx="205" cy="308" r="2" fill="#f5c040"/>
+  <circle cx="218" cy="312" r="2" fill="#f5c040"/>
+  <!-- Strawberry leaves/hull at top -->
+  <path d="M185 252 Q180 238 185 230" fill="none" stroke="#3a8030" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M195 248 Q192 234 195 225" fill="none" stroke="#3a8030" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M205 248 Q208 234 205 225" fill="none" stroke="#3a8030" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M215 252 Q220 238 215 230" fill="none" stroke="#3a8030" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M200 247 Q200 232 200 222" fill="none" stroke="#3a8030" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

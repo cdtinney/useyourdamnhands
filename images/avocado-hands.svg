@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person calmly scooping avocado with a spoon / their thumb -->
+  <!-- Head -->
+  <circle cx="200" cy="90" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Serene happy eyes -->
+  <path d="M180 82 Q185 76 190 82" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 82 Q215 76 220 82" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Calm smile -->
+  <path d="M185 108 Q200 120 215 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush marks -->
+  <line x1="160" y1="97" x2="170" y2="97" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="230" y1="97" x2="240" y2="97" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="135" x2="200" y2="240" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm holding avocado -->
+  <path d="M200 180 Q155 190 140 220" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm - thumb scooping -->
+  <path d="M200 180 Q235 195 245 220" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand cupping avocado -->
+  <path d="M130 220 Q125 230 130 240 Q140 250 150 240 Q155 230 150 220" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Avocado in hand -->
+  <ellipse cx="140" cy="238" rx="18" ry="14" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Right hand - thumb going into avocado -->
+  <path d="M242 220 L248 228" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M246 218 L252 226" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M250 220 L254 230" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Thumb scooping into avocado -->
+  <path d="M248 228 Q245 238 240 240" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Perfect avocado slices on counter -->
+  <line x1="80" y1="275" x2="320" y2="275" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Clean slices in a row -->
+  <path d="M150 270 Q155 260 160 270" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 270 Q175 260 180 270" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M190 270 Q195 260 200 270" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M210 270 Q215 260 220 270" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M230 270 Q235 260 240 270" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Pit removed cleanly sitting on counter -->
+  <circle cx="280" cy="268" r="8" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Peace/satisfaction sparkle -->
+  <path d="M260 65 L263 57 L266 65 L274 62 L266 67 L270 75 L264 69 L260 75 L262 67 L254 63Z" fill="black" stroke="none"/>
+  <path d="M130 65 L133 57 L136 65 L144 62 L136 67 L140 75 L134 69 L130 75 L132 67 L124 63Z" fill="black" stroke="none"/>
+  <!-- Legs -->
+  <line x1="200" y1="240" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="240" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

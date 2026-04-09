@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Plastic Lettuce Knife -->
+  <!-- Blade - plastic, serrated -->
+  <path d="M50 200 Q55 195 280 180 Q300 178 310 185 L310 215 Q300 222 280 220 Q55 205 50 200Z" fill="#8cc63f" stroke="#333" stroke-width="3"/>
+  <!-- Serrated edge on bottom -->
+  <path d="M70 205 L80 215 L90 205 L100 215 L110 205 L120 215 L130 205 L140 215 L150 205 L160 215 L170 205 L180 215 L190 205 L200 215 L210 205 L220 215 L230 205 L240 215 L250 205 L260 215 L270 208" fill="none" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade spine highlight -->
+  <path d="M70 195 Q170 187 280 183" fill="none" stroke="#a0d850" stroke-width="2" opacity="0.6"/>
+  <!-- Handle -->
+  <path d="M310 178 Q320 170 345 168 Q370 168 380 180 L380 220 Q370 232 345 232 Q320 230 310 222Z" fill="#6aaa2e" stroke="#333" stroke-width="3"/>
+  <!-- Handle grip ridges -->
+  <line x1="325" y1="174" x2="325" y2="226" stroke="#5a9020" stroke-width="2.5"/>
+  <line x1="340" y1="172" x2="340" y2="228" stroke="#5a9020" stroke-width="2.5"/>
+  <line x1="355" y1="172" x2="355" y2="228" stroke="#5a9020" stroke-width="2.5"/>
+  <line x1="370" y1="175" x2="370" y2="225" stroke="#5a9020" stroke-width="2.5"/>
+  <!-- Bolster -->
+  <rect x="306" y="178" width="10" height="44" rx="2" fill="#5a9020" stroke="#333" stroke-width="2"/>
+  <!-- Blade tip -->
+  <path d="M50 200 L42 200" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+</svg>

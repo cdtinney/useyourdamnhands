@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Letter Opener - elegant blade style -->
+  <!-- Blade -->
+  <path d="M40 200 L250 185 L250 215 Z" fill="#d8d0c0" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Blade center line -->
+  <line x1="60" y1="200" x2="248" y2="200" stroke="#b8b0a0" stroke-width="1.5"/>
+  <!-- Blade edge highlight -->
+  <path d="M40 200 L250 185" fill="none" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Guard/bolster -->
+  <ellipse cx="255" cy="200" rx="8" ry="25" fill="#c0a060" stroke="#333" stroke-width="3"/>
+  <!-- Handle -->
+  <path d="M263 180 L370 175 Q385 178 388 200 Q385 222 370 225 L263 220Z" fill="#8B4513" stroke="#333" stroke-width="3"/>
+  <!-- Wood grain on handle -->
+  <path d="M275 185 Q310 182 360 180" fill="none" stroke="#6B3510" stroke-width="1.5" opacity="0.5"/>
+  <path d="M270 195 Q315 192 365 190" fill="none" stroke="#6B3510" stroke-width="1.5" opacity="0.5"/>
+  <path d="M270 205 Q315 208 365 210" fill="none" stroke="#6B3510" stroke-width="1.5" opacity="0.5"/>
+  <path d="M275 215 Q310 218 360 220" fill="none" stroke="#6B3510" stroke-width="1.5" opacity="0.5"/>
+  <!-- Handle end cap -->
+  <ellipse cx="385" cy="200" rx="5" ry="18" fill="#c0a060" stroke="#333" stroke-width="2"/>
+  <!-- Envelope underneath -->
+  <rect x="60" y="260" width="280" height="100" rx="3" fill="#f5f0e8" stroke="#333" stroke-width="2.5"/>
+  <!-- Envelope flap -->
+  <path d="M60 260 L200 320 L340 260" fill="none" stroke="#333" stroke-width="2"/>
+  <!-- Envelope flap fold line -->
+  <path d="M60 260 L200 310 L340 260" fill="none" stroke="#ddd" stroke-width="1.5" stroke-dasharray="5,5"/>
+  <!-- Stamp -->
+  <rect x="295" y="270" width="30" height="25" rx="2" fill="#e8d8c8" stroke="#999" stroke-width="1.5"/>
+  <rect x="299" y="274" width="22" height="17" fill="#c8a888"/>
+</svg>

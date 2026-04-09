@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily popping cherry pit with thumb -->
+  <!-- Head -->
+  <circle cx="200" cy="95" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy closed eyes -->
+  <path d="M180 86 Q185 80 190 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 86 Q215 80 220 86" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big grin -->
+  <path d="M178 108 Q200 128 222 108" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="163" y1="100" x2="173" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="100" x2="237" y2="100" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="140" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm holding cherry -->
+  <path d="M200 180 Q155 195 140 220" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right arm - thumb pushing -->
+  <path d="M200 178 Q240 195 255 218" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand cupped -->
+  <path d="M132 220 Q128 230 135 238 Q142 242 148 235 Q150 225 143 218Z" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Right thumb pressing -->
+  <path d="M253 218 L245 228" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Other fingers curled -->
+  <path d="M258 220 L262 228" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M260 218 L266 224" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cherry being squeezed -->
+  <circle cx="200" cy="230" r="12" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Cherry stem -->
+  <path d="M200 218 Q205 205 210 200" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Pit popping out -->
+  <circle cx="200" cy="250" r="4" fill="black"/>
+  <!-- Pop lines -->
+  <line x1="192" y1="252" x2="185" y2="258" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="200" y1="255" x2="200" y2="263" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="208" y1="252" x2="215" y2="258" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- POP text -->
+  <text x="218" y="245" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="black">POP!</text>
+  <!-- Bowl of pitted cherries -->
+  <path d="M155 275 Q200 295 245 275" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="155" y1="275" x2="245" y2="275" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Cherries in bowl -->
+  <circle cx="175" cy="271" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <circle cx="195" cy="269" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <circle cx="215" cy="271" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+  <!-- Sparkle -->
+  <path d="M285 75 L288 67 L291 75 L299 72 L291 77 L295 85 L289 79 L285 85 L287 77 L279 73Z" fill="black" stroke="none"/>
+  <!-- Counter -->
+  <line x1="100" y1="295" x2="300" y2="295" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

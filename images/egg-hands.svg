@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person smoothly separating egg with hands -->
+  <!-- Head -->
+  <circle cx="200" cy="85" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Cool confident eyes -->
+  <path d="M180 78 Q185 72 190 78" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 78 Q215 72 220 78" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Smug little smile -->
+  <path d="M188 103 Q200 113 212 103" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush -->
+  <line x1="160" y1="92" x2="170" y2="92" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="230" y1="92" x2="240" y2="92" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="130" x2="200" y2="235" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Both arms reaching forward to cup the egg -->
+  <path d="M200 175 Q165 190 155 215" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M200 175 Q235 190 245 215" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand - fingers slightly spread catching yolk -->
+  <path d="M148 215 L142 225" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M152 215 L148 227" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M156 215 L154 228" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M160 216 L160 228" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right hand - fingers spread letting white through -->
+  <path d="M240 215 L236 228" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M244 215 L242 228" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M248 215 L248 228" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M252 216 L254 227" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Egg yolk sitting perfectly in cupped hands -->
+  <circle cx="200" cy="225" r="15" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Egg white dripping cleanly between fingers into bowl -->
+  <path d="M195 240 Q195 255 193 265" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 242 Q200 258 200 268" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M205 240 Q205 255 207 265" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bowl catching whites perfectly -->
+  <path d="M170 275 Q200 295 230 275" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Counter -->
+  <line x1="80" y1="280" x2="320" y2="280" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Clean counter - no mess! -->
+  <!-- Sparkles of perfection -->
+  <path d="M130 70 L133 62 L136 70 L144 67 L136 72 L140 80 L134 74 L130 80 L132 72 L124 68Z" fill="black" stroke="none"/>
+  <path d="M270 65 L273 57 L276 65 L284 62 L276 67 L280 75 L274 69 L270 75 L272 67 L264 63Z" fill="black" stroke="none"/>
+  <!-- Small sparkle near clean counter -->
+  <path d="M300 270 L302 265 L304 270 L309 268 L304 271 L307 276 L303 273 L300 276 L302 271 L297 269Z" fill="black" stroke="none"/>
+  <!-- Legs -->
+  <line x1="200" y1="235" x2="178" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="235" x2="222" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 340 L163 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L237 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>

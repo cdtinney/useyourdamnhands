@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Person happily smashing garlic with palm -->
+  <!-- Head -->
+  <circle cx="200" cy="100" r="45" fill="none" stroke="black" stroke-width="3"/>
+  <!-- Happy eyes -->
+  <path d="M180 88 Q185 82 190 88" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 88 Q215 82 220 88" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big happy mouth -->
+  <path d="M180 112 Q200 130 220 112" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Blush marks -->
+  <line x1="163" y1="103" x2="173" y2="103" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="227" y1="103" x2="237" y2="103" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="200" y1="145" x2="200" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm raised up ready to smash -->
+  <path d="M200 180 Q150 160 140 200" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left hand - open palm smashing down -->
+  <path d="M130 200 L150 210 L140 195 L155 205 L145 190" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm on counter -->
+  <path d="M200 190 Q240 200 260 230" fill="none" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right hand holding garlic -->
+  <circle cx="263" cy="233" r="8" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Cutting board / counter surface -->
+  <line x1="80" y1="250" x2="320" y2="250" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Smashed garlic on counter -->
+  <ellipse cx="145" cy="245" rx="15" ry="6" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Garlic clove near right hand -->
+  <circle cx="270" cy="245" r="6" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Smash impact lines -->
+  <line x1="125" y1="235" x2="118" y2="225" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="135" y1="232" x2="132" y2="220" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="155" y1="232" x2="160" y2="220" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="165" y1="235" x2="172" y2="225" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sparkle of satisfaction -->
+  <path d="M260 80 L263 72 L266 80 L274 77 L266 82 L270 90 L264 84 L260 90 L262 82 L254 78Z" fill="black" stroke="none"/>
+  <!-- Legs -->
+  <line x1="200" y1="250" x2="175" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="225" y2="340" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <!-- Feet -->
+  <path d="M175 340 L160 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <path d="M225 340 L240 345" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>
