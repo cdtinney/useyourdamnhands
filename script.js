@@ -1,39 +1,39 @@
 const scenarios = [
   {
     title: "Lettuce Knife",
-    toolImage: "images/lettuce-knife.svg"
+    toolImage: "images/lettuce-knife.png"
   },
   {
     title: "The Herb Scissors",
-    toolImage: "images/herb-scissors.svg"
+    toolImage: "images/herb-scissors.png"
   },
   {
     title: "The Strawberry Huller",
-    toolImage: "images/strawberry-huller.svg"
+    toolImage: "images/strawberry-huller.png"
   },
   {
     title: "The Letter Opener",
-    toolImage: "images/letter-opener.svg"
-  },
-  {
-    title: "The Sock Folder",
-    toolImage: "images/sock-folder.svg"
+    toolImage: "images/letter-opener.png"
   },
   {
     title: "The Toothpaste Squeezer",
-    toolImage: "images/toothpaste-squeezer.svg"
+    toolImage: "images/toothpaste-squeezer.png"
   },
   {
     title: "The Book Page Holder",
-    toolImage: "images/book-page-holder.svg"
+    toolImage: "images/book-page-holder.png"
   },
   {
     title: "The Package Opener",
-    toolImage: "images/package-opener.svg"
+    toolImage: "images/package-opener.jpeg"
   },
   {
     title: "The Can Crusher",
-    toolImage: "images/can-crusher.svg"
+    toolImage: "images/can-crusher.jpeg"
+  },
+  {
+    title: "The Finger Chopsticks",
+    toolImage: "images/finger-chopsticks.png"
   }
 ];
 
